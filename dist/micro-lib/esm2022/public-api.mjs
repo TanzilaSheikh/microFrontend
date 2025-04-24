@@ -1,0 +1,7 @@
+/*
+ * Public API Surface of micro-lib
+ */
+export * from './lib/micro-lib.service';
+export * from './lib/micro-lib.component';
+export * from './lib/micro-lib.module';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljLWFwaS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3Byb2plY3RzL21pY3JvLWxpYi9zcmMvcHVibGljLWFwaS50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTs7R0FFRztBQUVILGNBQWMseUJBQXlCLENBQUM7QUFDeEMsY0FBYywyQkFBMkIsQ0FBQztBQUMxQyxjQUFjLHdCQUF3QixDQUFDIiwic291cmNlc0NvbnRlbnQiOlsiLypcclxuICogUHVibGljIEFQSSBTdXJmYWNlIG9mIG1pY3JvLWxpYlxyXG4gKi9cclxuXHJcbmV4cG9ydCAqIGZyb20gJy4vbGliL21pY3JvLWxpYi5zZXJ2aWNlJztcclxuZXhwb3J0ICogZnJvbSAnLi9saWIvbWljcm8tbGliLmNvbXBvbmVudCc7XHJcbmV4cG9ydCAqIGZyb20gJy4vbGliL21pY3JvLWxpYi5tb2R1bGUnO1xyXG4iXX0=
