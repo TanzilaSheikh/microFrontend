@@ -1,6 +1,14 @@
 {
   "name": "micro-lib-workspace",
   "version": "0.0.0",
+  "main": "dist/micro-lib/fesm2022/micro-lib.mjs",
+  "types": "dist/micro-lib/index.d.ts",
+  "exports": {
+    ".": {
+      "import": "./dist/micro-lib/fesm2022/micro-lib.mjs",
+      "types": "./dist/micro-lib/index.d.ts"
+    }
+  },
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
